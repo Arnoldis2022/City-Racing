@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Garage/Garage.unity
+    guid: 4a040ced2ff7cc443ae8f5cebbb5c25f
+  - enabled: 1
+    path: Assets/Scenes/City/City.unity
+    guid: c0d7f016eac742946b5c776f4dfa12ba
+  - enabled: 0
+    path: Assets/Scenes/TestScene/TestScene.unity
+    guid: 7bcdb3781a85598429e7a0cff5fb9480
+  m_configObjects:
+    com.unity.addressableassets: {fileID: 11400000, guid: 06650bf43f79e8f488bef903440c8cbf, type: 2}

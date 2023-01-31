@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 50dd08e351f7073429064943c9242784, type: 3}
+  m_Name: EnglishLocalization
+  m_EditorClassIdentifier: 
+  _language: en
+  _localizationData:
+  - _uiTextKey: '{ui_text_brakes}'
+    _uiText: Brakes
+  - _uiTextKey: '{ui_description_garage_upper_brakes}'
+    _uiText: Buy new equipment to improve the brakes, which will increase the braking
+      efficiency of your car.
+  - _uiTextKey: '{ui_text_controllability}'
+    _uiText: Controllability
+  - _uiTextKey: '{ui_description_garage_upper_controllability}'
+    _uiText: Buy a new lift in your garage to improve the handling of your car and
+      make it more agile.
+  - _uiTextKey: '{ui_text_engine}'
+    _uiText: Engine
+  - _uiTextKey: '{ui_description_garage_upper_engine}'
+    _uiText: Buy a lift for the engine, with which you can pump the indicators of
+      the maximum speed and acceleration of the car.
+  - _uiTextKey: '{ui_text_fuel}'
+    _uiText: Fuel
+  - _uiTextKey: '{ui_description_garage_upper_fuel}'
+    _uiText: Buy a set of tools to improve the fuel system. This improvement will
+      increase the volume of the fuel tank and reduce fuel consumption.
+  - _uiTextKey: '{ui_text_paintspray}'
+    _uiText: Painting
+  - _uiTextKey: '{ui_description_garage_upper_paintspray}'
+    _uiText: Buy cans of paint with which you can paint your car.
+  - _uiTextKey: '{ui_text_spoiler}'
+    _uiText: Spoiler
+  - _uiTextKey: '{ui_description_garage_upper_spoiler}'
+    _uiText: Buy an additional set of tools that will allow you to install a spoiler
+      on your car.
+  - _uiTextKey: '{ui_text_wheels}'
+    _uiText: Wheels
+  - _uiTextKey: '{ui_description_garage_upper_wheels}'
+    _uiText: Buy a rack to store your wheels. This improvement will allow you to
+      install and paint wheels, as well as change tires.
+  - _uiTextKey: '{ui_error_price}'
+    _uiText: Not enough credits!
+  - _uiTextKey: '{ui_error_level}'
+    _uiText: Insufficient player level!
+  - _uiTextKey: '{ui_text_error}'
+    _uiText: Error
+  - _uiTextKey: '{ui_text_congratulation}'
+    _uiText: Congratulations!
+  - _uiTextKey: '{ui_text_function_unlocked}'
+    _uiText: The function has been successfully unlocked!
+  - _uiTextKey: '{ui_text_refuel_complete}'
+    _uiText: You have successfully refueled! Have a good trip!
+  - _uiTextKey: '{ui_text_class_error}'
+    _uiText: The class of your car is lower than required in the race!
+  - _uiTextKey: '{ui_error_fuel}'
+    _uiText: Not enough fuel. Refuel!
+  - _uiTextKey: '{ui_text_collect_money}'
+    _uiText: You have earned {money} credits!
+  - _uiTextKey: '{ui_text_speed_checkecr_false}'
+    _uiText: Too slow!
+  - _uiTextKey: '{ui_text_nos}'
+    _uiText: Nitrous oxide
+  - _uiTextKey: '{ui_description_garage_upper_nos}'
+    _uiText: Buy new equipment to install a nitrous oxide system on your car. This
+      system will allow you to increase the motor power for a short time.

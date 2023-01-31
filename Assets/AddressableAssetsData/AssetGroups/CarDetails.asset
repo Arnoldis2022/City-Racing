@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: CarDetails
+  m_EditorClassIdentifier: 
+  m_GroupName: CarDetails
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 55116c63f4f731244a1aed25e1973865
+  m_SerializeEntries:
+  - m_GUID: 169c2ba433b74e94ebd017a5c31577ef
+    m_Address: Wheels
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 7998092628104444b9a9547b2ad4e09e
+    m_Address: Wheel
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 5d1bd5be3a165ea4e85d5a5d5cd61137
+    m_Address: Brake
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 20087bf51280a334f81f0f43f43f9261
+    m_Address: Dissan_Spyline
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ef6f4cbaf2758594a90e4ed0ec291ca6
+    m_Address: Assets/Data/CarDetails/Tire_3.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e01aa4d64f39c564aa7f1040006306b2
+    m_Address: Assets/Data/CarDetails/Rim_3.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 6c1daaa1a7c094a4990b8d84fcd59a5a
+    m_Address: Assets/Data/Cars/Dissan_300ZX.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 432bdbf274960d54e93c0b268a3a1f6a, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 745c38f01ec83644e90e3833be61f214, type: 2}
+    - {fileID: 11400000, guid: 9fec86599e590e94a9e218d433656e9b, type: 2}

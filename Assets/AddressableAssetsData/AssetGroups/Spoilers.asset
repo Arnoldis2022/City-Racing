@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Spoilers
+  m_EditorClassIdentifier: 
+  m_GroupName: Spoilers
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 72b1f52b900e15f4dbb146010edb4db4
+  m_SerializeEntries:
+  - m_GUID: bc5fba03fd9a54f49b59b6c9f45606bc
+    m_Address: Assets/Prefabs/Tuning/Spoilers/Spoiler_01.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 01eb0427e0af4f74384fa60842fddb3e
+    m_Address: Assets/Prefabs/Tuning/Spoilers/Spoiler_02.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 83d49c2fb164dff47874c0d461d3eedc
+    m_Address: Assets/Prefabs/Tuning/Spoilers/Spoiler_03.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: cc6cf9bb090398949ac1e0dab63eb8d4
+    m_Address: Assets/Prefabs/Tuning/Spoilers/Spoiler_04.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: efe653e7bdaf4a94cbff65478be0a342
+    m_Address: Assets/Prefabs/Tuning/Spoilers/Spoiler_05.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 6bc1a21ce6b77b9478b99180e8133409
+    m_Address: Assets/Prefabs/Tuning/Spoilers/Spoiler_06.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 2f696ba0b44f811418b659ec69bfc0b4
+    m_Address: Assets/Prefabs/Tuning/Spoilers/Spoiler_07.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 2ce713470afd9064b8d60310109298b7
+    m_Address: Assets/Prefabs/Tuning/Spoilers/Spoiler_08.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 6e3ab563b5f70a44283f45eccbe85da9
+    m_Address: Assets/Prefabs/Tuning/Spoilers/Spoiler_09.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 5828d13b2e1f2144983e418dcf7ef545
+    m_Address: Assets/Prefabs/Tuning/Spoilers/Spoiler_1.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 432bdbf274960d54e93c0b268a3a1f6a, type: 2}
+  m_SchemaSet:
+    m_Schemas: []

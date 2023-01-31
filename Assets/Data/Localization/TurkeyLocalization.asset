@@ -1,0 +1,81 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 50dd08e351f7073429064943c9242784, type: 3}
+  m_Name: TurkeyLocalization
+  m_EditorClassIdentifier: 
+  _language: tr
+  _localizationData:
+  - _uiTextKey: '{ui_text_brakes}'
+    _uiText: Frenler
+  - _uiTextKey: '{ui_description_garage_upper_brakes}'
+    _uiText: "Arac\u0131n\u0131z\u0131n frenleme verimlili\u011Fini art\u0131racak
+      frenleri geli\u015Ftirmek i\xE7in yeni ekipman sat\u0131n al\u0131n."
+  - _uiTextKey: '{ui_text_controllability}'
+    _uiText: "Y\xF6netilebilirlik"
+  - _uiTextKey: '{ui_description_garage_upper_controllability}'
+    _uiText: "Arac\u0131n\u0131z\u0131n kullan\u0131m kabiliyetini art\u0131rmak
+      ve daha d\xF6nebilir hale getirmek i\xE7in garaj\u0131n\u0131za yeni bir asans\xF6r
+      sat\u0131n al\u0131n."
+  - _uiTextKey: '{ui_text_engine}'
+    _uiText: Motor
+  - _uiTextKey: '{ui_description_garage_upper_engine}'
+    _uiText: "Arac\u0131n maksimum h\u0131z ve h\u0131zlanma g\xF6stergelerini pompalayabilece\u011Finiz
+      motor i\xE7in bir asans\xF6r sat\u0131n al\u0131n."
+  - _uiTextKey: '{ui_text_fuel}'
+    _uiText: "Yak\u0131t"
+  - _uiTextKey: '{ui_description_garage_upper_fuel}'
+    _uiText: "Yak\u0131t sistemini geli\u015Ftirmek i\xE7in bir tak\u0131m ara\xE7lar
+      sat\u0131n al\u0131n. Bu iyile\u015Ftirme, yak\u0131t deposunun hacmini art\u0131racak
+      ve yak\u0131t t\xFCketimini azaltacakt\u0131r."
+  - _uiTextKey: '{ui_text_paintspray}'
+    _uiText: Boyama
+  - _uiTextKey: '{ui_description_garage_upper_paintspray}'
+    _uiText: "Arac\u0131n\u0131z\u0131 boyayabilece\u011Finiz boya kutular\u0131
+      sat\u0131n al\u0131n."
+  - _uiTextKey: '{ui_text_spoiler}'
+    _uiText: Spoyler
+  - _uiTextKey: '{ui_description_garage_upper_spoiler}'
+    _uiText: "Arac\u0131n\u0131za bir spoyler takman\u0131za izin verecek ek bir
+      ara\xE7 seti sat\u0131n al\u0131n."
+  - _uiTextKey: '{ui_text_wheels}'
+    _uiText: Tekerlekler
+  - _uiTextKey: '{ui_description_garage_upper_wheels}'
+    _uiText: "Tekerleklerinizi saklamak i\xE7in bir raf sat\u0131n al\u0131n. Bu
+      iyile\u015Ftirme, jantlar\u0131 takman\u0131za ve renklendirmenize ve lastikleri
+      de\u011Fi\u015Ftirmenize izin verecektir."
+  - _uiTextKey: '{ui_error_price}'
+    _uiText: Yeterli kredi yok!
+  - _uiTextKey: '{ui_error_level}'
+    _uiText: Yetersiz oyuncu seviyesi!
+  - _uiTextKey: '{ui_text_error}'
+    _uiText: Hata
+  - _uiTextKey: '{ui_text_congratulation}'
+    _uiText: Tebrikler!
+  - _uiTextKey: '{ui_text_function_unlocked}'
+    _uiText: "Fonksiyon ba\u015Far\u0131yla kilidi a\xE7\u0131ld\u0131!"
+  - _uiTextKey: '{ui_text_refuel_complete}'
+    _uiText: "Ba\u015Far\u0131l\u0131 bir \u015Fekilde yak\u0131t ikmali yapt\u0131n\u0131z!
+      \u0130yi yolculuklar!"
+  - _uiTextKey: '{ui_text_class_error}'
+    _uiText: "Arac\u0131n\u0131z\u0131n s\u0131n\u0131f\u0131 yar\u0131\u015Fta gerekli
+      olan\u0131n alt\u0131nda!"
+  - _uiTextKey: '{ui_error_fuel}'
+    _uiText: "Yeterli yak\u0131t yok. Yak\u0131t ikmali yap\u0131n!"
+  - _uiTextKey: '{ui_text_collect_money}'
+    _uiText: "{money} kredilerini kazand\u0131n\u0131z!"
+  - _uiTextKey: '{ui_text_speed_checkecr_false}'
+    _uiText: "\xC7ok yava\u015F!"
+  - _uiTextKey: '{ui_text_nos}'
+    _uiText: Azot oksit
+  - _uiTextKey: '{ui_description_garage_upper_nos}'
+    _uiText: "Arac\u0131n\u0131za bir azot oksit sistemi kurmak i\xE7in yeni ekipman
+      sat\u0131n al\u0131n. Bu sistem motorun g\xFCc\xFCn\xFC k\u0131saca art\u0131racakt\u0131r."

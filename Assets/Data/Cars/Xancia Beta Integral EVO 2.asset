@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 964398db131e4e74d8300c72b37d7d9d, type: 3}
+  m_Name: Xancia Beta Integral EVO 2
+  m_EditorClassIdentifier: 
+  _carName: Xancia Beta Integral EVO 2
+  _carPrefab: {fileID: 2698871939898097455, guid: ecb86d458abee0e479c99befc1f8b999, type: 3}
+  _carClass: 0
+  _defaultBodyColor: {r: 1, g: 1, b: 1, a: 1}
+  _defaultBodySmoothness: 1
+  _defaultRim: {fileID: 11400000, guid: e07f1da4c23c76545a7eeef7861ff278, type: 2}
+  _defaultTire: {fileID: 11400000, guid: 667dc916af708b243a0c6041f1596e29, type: 2}
+  _defaultSpoiler: {fileID: 11400000, guid: 18559499549f63247ba9117c07779108, type: 2}
+  _supportedRims:
+  - {fileID: 11400000, guid: 2d7e1f30aba1c114fb8e1f553429e106, type: 2}
+  - {fileID: 11400000, guid: 743594486d91ad44497d963b2e58572b, type: 2}
+  - {fileID: 11400000, guid: e01aa4d64f39c564aa7f1040006306b2, type: 2}
+  - {fileID: 11400000, guid: 85f8757483d0cdf4ea923e1d8fafd6cc, type: 2}
+  - {fileID: 11400000, guid: 20c1b661751704142a1095b13553c5ee, type: 2}
+  - {fileID: 11400000, guid: 320374e501532b8489b6b876cdfad34b, type: 2}
+  - {fileID: 11400000, guid: 683a39b4e0fb7874b8d8c6940be48db4, type: 2}
+  - {fileID: 11400000, guid: 0c87cd39231bcfb428d4eb5ae39b3d6a, type: 2}
+  - {fileID: 11400000, guid: e07f1da4c23c76545a7eeef7861ff278, type: 2}
+  _supportedTires:
+  - {fileID: 11400000, guid: c251abe8118d1c844b09b318d8a9ec03, type: 2}
+  - {fileID: 11400000, guid: ef6f4cbaf2758594a90e4ed0ec291ca6, type: 2}
+  - {fileID: 11400000, guid: 667dc916af708b243a0c6041f1596e29, type: 2}
+  - {fileID: 11400000, guid: 0bf84c90bfea64f41aed331f1215ba1d, type: 2}
+  _supportedSpoilers:
+  - {fileID: 11400000, guid: 18559499549f63247ba9117c07779108, type: 2}
+  - {fileID: 11400000, guid: d48eb69ec157205458ed5fa44f3ce650, type: 2}
+  - {fileID: 11400000, guid: 02f166f1044d7b6448db16df45bdd1c4, type: 2}
+  _wheelSize: {x: 0.92, y: 0.92, z: 0.92}
+  _spoilerSize: {x: 0.77, y: 0.77, z: 0.77}
+  _price: 22000
+  _baseFuelConsumptionRatio: 0.2
+  _maxFuelConsumptionRatio: 0.1
+  _baseFuelTankCapacity: 57
+  _fuelPrice: 20
+  _maxFuelTankCapacity: 63
+  _maxFuelTankLevel: 5
+  _baseSpeed: 213
+  _maxSpeed: 234
+  _baseEngineTorque: 293
+  _maxEngineTorque: 322
+  _maxEngineLevel: 5
+  _baseBrakeForce: 3000
+  _maxBrakeForce: 3300
+  _maxBrakesLevel: 5
+  _baseSteerAngleAtSpeed: 8
+  _maxSteerAngleAtSpeed: 12
+  _baseSteerSpeed: 90
+  _maxSteerSpeed: 110
+  _maxControllabilityLevel: 5
+  _baseNOSCapacity: 90
+  _maxNOSCapacity: 108
+  _maxNOSLevel: 5

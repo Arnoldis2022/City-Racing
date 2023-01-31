@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 964398db131e4e74d8300c72b37d7d9d, type: 3}
+  m_Name: Dord Qustang
+  m_EditorClassIdentifier: 
+  _carName: Dord Qustang
+  _carPrefab: {fileID: 3321844526470484605, guid: 155c682f529c09f44958a481be9f46c4, type: 3}
+  _carClass: 1
+  _defaultBodyColor: {r: 0.41960785, g: 0.011516749, b: 0.0039215586, a: 1}
+  _defaultBodySmoothness: 0
+  _defaultRim: {fileID: 11400000, guid: 0c87cd39231bcfb428d4eb5ae39b3d6a, type: 2}
+  _defaultTire: {fileID: 11400000, guid: ef6f4cbaf2758594a90e4ed0ec291ca6, type: 2}
+  _defaultSpoiler: {fileID: 11400000, guid: 18559499549f63247ba9117c07779108, type: 2}
+  _supportedRims:
+  - {fileID: 11400000, guid: 2d7e1f30aba1c114fb8e1f553429e106, type: 2}
+  - {fileID: 11400000, guid: 743594486d91ad44497d963b2e58572b, type: 2}
+  - {fileID: 11400000, guid: e01aa4d64f39c564aa7f1040006306b2, type: 2}
+  - {fileID: 11400000, guid: 85f8757483d0cdf4ea923e1d8fafd6cc, type: 2}
+  - {fileID: 11400000, guid: 20c1b661751704142a1095b13553c5ee, type: 2}
+  - {fileID: 11400000, guid: 320374e501532b8489b6b876cdfad34b, type: 2}
+  - {fileID: 11400000, guid: 683a39b4e0fb7874b8d8c6940be48db4, type: 2}
+  - {fileID: 11400000, guid: 0c87cd39231bcfb428d4eb5ae39b3d6a, type: 2}
+  _supportedTires:
+  - {fileID: 11400000, guid: c251abe8118d1c844b09b318d8a9ec03, type: 2}
+  - {fileID: 11400000, guid: ef6f4cbaf2758594a90e4ed0ec291ca6, type: 2}
+  - {fileID: 11400000, guid: 667dc916af708b243a0c6041f1596e29, type: 2}
+  - {fileID: 11400000, guid: 0bf84c90bfea64f41aed331f1215ba1d, type: 2}
+  _supportedSpoilers:
+  - {fileID: 11400000, guid: 18559499549f63247ba9117c07779108, type: 2}
+  - {fileID: 11400000, guid: a4378416861698c488bca8f41e76983f, type: 2}
+  - {fileID: 11400000, guid: 12d2aeb2c0caf844985bcd1ebd178671, type: 2}
+  - {fileID: 11400000, guid: 6ded015a41d341e40aa68730e8b73370, type: 2}
+  - {fileID: 11400000, guid: 02f166f1044d7b6448db16df45bdd1c4, type: 2}
+  - {fileID: 11400000, guid: bbdb90d7cb7aded4e839a5d97867acb8, type: 2}
+  - {fileID: 11400000, guid: 28ec2348be4ae79479fc3796eae2fe11, type: 2}
+  - {fileID: 11400000, guid: ab0d1bdb0c16498489545ee5616924c9, type: 2}
+  _wheelSize: {x: 1.06, y: 1.06, z: 1.06}
+  _spoilerSize: {x: 1, y: 1, z: 1}
+  _price: 45000
+  _baseFuelConsumptionRatio: 0.21
+  _maxFuelConsumptionRatio: 0.189
+  _baseFuelTankCapacity: 60
+  _fuelPrice: 40
+  _maxFuelTankCapacity: 66
+  _maxFuelTankLevel: 5
+  _baseSpeed: 289
+  _maxSpeed: 318
+  _baseEngineTorque: 529
+  _maxEngineTorque: 582
+  _maxEngineLevel: 5
+  _baseBrakeForce: 3200
+  _maxBrakeForce: 3520
+  _maxBrakesLevel: 5
+  _baseSteerAngleAtSpeed: 10
+  _maxSteerAngleAtSpeed: 15
+  _baseSteerSpeed: 150
+  _maxSteerSpeed: 250
+  _maxControllabilityLevel: 5
+  _baseNOSCapacity: 100
+  _maxNOSCapacity: 120
+  _maxNOSLevel: 5
